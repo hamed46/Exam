@@ -27,6 +27,8 @@
 		</dependency>
 	</dependencies>
 	
+	<!-- Deploy to Nexus -->
+	
 	<distributionManagement>
         <repository>
             <id>nexus-site</id>
