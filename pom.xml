@@ -39,6 +39,9 @@
 		<nexusUrl>http://172.10.0.140:8081/nexus/</nexusUrl>
 	      </configuration>
 	    </plugin>
+	  </plugins>
+		</build>
+	  
 	
 	
 	
