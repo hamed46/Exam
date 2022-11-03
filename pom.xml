@@ -44,7 +44,7 @@
 	
 	<!-- Deploy to Nexus -->
 	
-	<distributionManagement>
+    <distributionManagement>
         <repository>
             <id>nexus-site</id>
             <url>http://172.10.0.140:8081/repository/demoapp-release/</url>
