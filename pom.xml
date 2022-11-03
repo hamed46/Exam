@@ -32,6 +32,7 @@
 	<distributionManagement>
         <repository>
             <id>nexus-site</id>
+	    <repositoryId>nexus-releases</repositoryId> 
             <url>http://172.10.0.140:8081/repository/demoapp-release/</url>
         </repository>
     </distributionManagement>
