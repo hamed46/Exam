@@ -49,6 +49,9 @@
 		  </goals>
 		</execution>
 	      </executions>
+		    <configuration>
+		<nexusUrl>http://172.10.0.140:8081/</nexusUrl>
+	      </configuration>
 	    </plugin>
 	  </plugins>
 		</build>  
