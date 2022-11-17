@@ -41,7 +41,7 @@
 			    <goal>deploy</goal>
 			 </goals>
 			 <configuration>
-				<finalName>achat</finalName>
+				<finalName>Exam</finalName>
 			 </configuration>
 		      </execution>
 		   </executions>
