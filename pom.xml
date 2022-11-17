@@ -40,6 +40,9 @@
 			 <goals>
 			    <goal>deploy</goal>
 			 </goals>
+			 <configuration>
+				<finalName>achat</finalName>
+			 </configuration>
 		      </execution>
 		   </executions>
 		</plugin>
