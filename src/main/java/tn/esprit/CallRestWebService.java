@@ -7,7 +7,7 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
-import org.junit.Test;
+//import org.junit.Test;
 
 /**
  * @author Walid-YAICH
@@ -39,7 +39,7 @@ public class CallRestWebService {
 		}
 	}
 	
-	@Test
+	//@Test
 	public void TestExemple() {
 		System.out.println("This is a Test");
 	}
