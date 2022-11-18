@@ -8,11 +8,9 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
 
-
 /**
  * @author Walid-YAICH
  * URL utiles :
- * import org.junit.Test;
  * http://theoryapp.com/parse-json-in-java/
  * https://jsonformatter.curiousconcept.com/
  */
@@ -40,8 +38,5 @@ public class CallRestWebService {
 		}
 	}
 	
-	public void TestExemple() {
-		System.out.println("This is a Test");
-	}
 }
  
