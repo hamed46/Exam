@@ -7,11 +7,12 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
-//import org.junit.Test;
+
 
 /**
  * @author Walid-YAICH
  * URL utiles :
+ * import org.junit.Test;
  * http://theoryapp.com/parse-json-in-java/
  * https://jsonformatter.curiousconcept.com/
  */
@@ -39,7 +40,6 @@ public class CallRestWebService {
 		}
 	}
 	
-	//@Test
 	public void TestExemple() {
 		System.out.println("This is a Test");
 	}
